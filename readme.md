@@ -13,7 +13,7 @@ The dataset used in this project comprises 3,591 ancient and 1,307 modern Eurasi
 
 ## Getting Started
 1.	Clone this repository to your local machine.
-2.	Make sure you have all the necessary packages installed. You can find them in TPS.1.ipynb.
+2.	Make sure you have all the necessary packages installed. You can find them in TPS.1.ipynb in the script folder.
 3.	Follow the steps listed below to run the pipeline on your dataset.
 
 ## Steps 
