@@ -16,10 +16,14 @@ The dataset used in this project comprises 3,591 ancient and 1,307 modern Eurasi
 3.	Follow the steps listed below to run the pipeline on your dataset.
 
 ## Steps 
-•   STEP0 - Convert genotype file: Description
+• STEP0 - Convert genotype file: Description
+
 •	STEP1 - Merge your file with the temporal components: Description
+
 •	STEP2 - Calculate the temporal components of your samples: Description
+
 •	STEP3 - Predict 'merge.8.Q' data file: Description
+
 For a more detailed explanation of each step and the code involved, please refer to the [TPS repository](https://github.com/sarabehnamian/Origins-of-Ancient-Eurasian-Genomes)
 .
 
