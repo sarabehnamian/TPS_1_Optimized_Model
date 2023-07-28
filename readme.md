@@ -36,6 +36,7 @@ The Jupyter notebook TPS.1.ipynb contains our code and explanations. The noteboo
 4.	Model Training
 5.	Model Use (Prediction)
 6.	Model Evaluation
+7.	
 The explanations in the notebook will guide you through these steps in detail.
 
 ## Contributing
